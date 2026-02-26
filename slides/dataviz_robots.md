@@ -2,8 +2,8 @@
 marp: true
 title: "SQL + Python — 14. Dataviz robots"
 paginate: true
-header: "[← Index des chapitres](https://antoine07.github.io/db_web2.2/#5)"
-footer: "[← Index des chapitres](https://antoine07.github.io/db_web2.2/#5)"
+header: "[← Index des chapitres](https://antoine07.github.io/Dataviz)"
+footer: "[← Index des chapitres](https://antoine07.github.io/Dataviz)"
 ---
 
 # 14 — Dataviz robots avec Python
