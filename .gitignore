@@ -4,8 +4,6 @@ node_modules/
 scripts/
 package*.json
 
-emails/
-QCM/
 
 # Exceptions: app-project workspaces
 !app-project/client/package.json
