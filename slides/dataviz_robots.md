@@ -98,12 +98,12 @@ Chaque ligne représente :
 
 ---
 
-##  Une fois notre analyse réalisé on pourra 
+## Perspectives (suite du cours)
 
-- Monitoring temps réel
-- Détection d'anomalies
-- Maintenance prédictive
-- Optimisation des opérations
+- Mettre en place un monitoring temps réel
+- Implémenter une détection d'anomalies
+- Construire une approche de maintenance prédictive
+- Piloter l'optimisation des opérations
 
 ---
 
