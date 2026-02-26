@@ -706,7 +706,7 @@ plt.show()
 
 ## Rendu attendu
 
-<img src="./assets/dataviz_robots/simulated_correlation_heatmap.svg" alt="Heatmap de corrélation" width="800" />
+<img src="./assets/dataviz_robots/simulated_correlation_heatmap.svg" alt="Heatmap de corrélation" width="600" />
 
 ---
 
