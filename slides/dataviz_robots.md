@@ -704,8 +704,7 @@ plt.show()
 
 ## Rendu attendu
 
-![Image](https://seaborn.pydata.org/_images/structured_heatmap.png)
-
+<img src="./assets/dataviz_robots/correlation_heatmap.png" alt="Heatmap de corrélation" width="800" />
 
 ---
 
