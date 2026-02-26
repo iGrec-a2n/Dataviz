@@ -13,5 +13,5 @@ paginate: true
 ## Chapitre Dataviz
 
 
-- [Dataviz robots avec Python](https://antoine07.github.io/db_web2.2/dataviz_robots.html)
+- [Dataviz robots avec Python](https://antoine07.github.io/Dataviz/dataviz_robots.html)
 
