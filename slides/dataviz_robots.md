@@ -663,6 +663,8 @@ df["support_tickets"] = 200 - df["customer_satisfaction"] * 20 + np.random.norma
 df.head()
 ```
 
+---
+
 Structure logique simulée :
 
 - Marketing → influence positive sur ventes
@@ -704,7 +706,7 @@ plt.show()
 
 ## Rendu attendu
 
-<img src="./assets/dataviz_robots/correlation_heatmap.png" alt="Heatmap de corrélation" width="800" />
+<img src="./assets/dataviz_robots/simulated_correlation_heatmap.svg" alt="Heatmap de corrélation" width="800" />
 
 ---
 
