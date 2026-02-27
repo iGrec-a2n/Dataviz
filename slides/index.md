@@ -12,6 +12,7 @@ paginate: true
 
 ## Chapitre Dataviz
 
+- [Starter - noteboox](https://antoine07.github.io/Dataviz/stater-db)
 
 - [Dataviz robots avec Python](https://antoine07.github.io/Dataviz/dataviz_robots.html)
 

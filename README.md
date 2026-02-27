@@ -52,6 +52,62 @@ Accès PostgreSQL :
 Accès Adminer :
 - URL : `http://localhost:8080`
 
+## Alternative légère (sans Docker)
+
+Prérequis :
+- Python 3.11+
+
+Depuis la racine du repo :
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install --upgrade pip
+pip install notebook==7.4.5 pandas==3.0.1 matplotlib==3.9.0 seaborn==0.13.2
+```
+
+Lancer Jupyter Notebook :
+
+```bash
+jupyter notebook \
+  --ip=127.0.0.1 \
+  --port=8889 \
+  --no-browser \
+  --ServerApp.token=sql-nosql
+```
+
+Puis ouvrir :
+- URL : `http://localhost:8889`
+- Notebook : `starter-db/notebooks/analyse_robots.ipynb`
+
+Sortir de l'environnement virtuel :
+
+```bash
+deactivate
+```
+
+## Alternative en ligne (Google Colab)
+
+Si vous ne pouvez pas installer Docker ou Python localement, utilisez Colab.
+
+1. Ouvrir https://colab.research.google.com
+2. Créer un nouveau notebook
+3. Installer les dépendances dans une cellule :
+
+```python
+!pip install -q pandas matplotlib seaborn
+```
+
+4. Uploader les datasets (`data/flipper_games.csv`, `starter-db/data/robots_missions.csv`) dans l'onglet fichiers
+5. Adapter les chemins dans le notebook, par exemple :
+
+```python
+flipper_path = "/content/flipper_games.csv"
+robots_path = "/content/robots_missions.csv"
+```
+
+Cette option est pratique pour avancer rapidement, mais le workflow recommandé du cours reste Docker.
+
 ## PostgreSQL - Option 
 
 Ouvrir `psql` :
