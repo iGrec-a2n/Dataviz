@@ -15,3 +15,15 @@ paginate: true
 
 - [Dataviz robots avec Python](https://antoine07.github.io/Dataviz/dataviz_robots.html)
 
+
+---
+
+## TP
+
+- [Mini TP 2h30m — Equipes Robots / Flippers](https://github.com/Antoine07/Dataviz)
+
+---
+
+## Chapitre corrélation 
+
+- [Corrélations et projet flipper](https://antoine07.github.io/Dataviz/dataviz_correlations_flipper.html)
