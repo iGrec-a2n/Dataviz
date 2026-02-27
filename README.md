@@ -52,7 +52,7 @@ Accès PostgreSQL :
 Accès Adminer :
 - URL : `http://localhost:8080`
 
-## Alternative légère (sans Docker)
+## Alternative (sans Docker)
 
 Prérequis :
 - Python 3.11+
