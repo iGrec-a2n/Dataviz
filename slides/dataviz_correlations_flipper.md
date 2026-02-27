@@ -6,7 +6,7 @@ header: "[← Index des chapitres](https://antoine07.github.io/Dataviz)"
 footer: "[← Index des chapitres](https://antoine07.github.io/Dataviz)"
 ---
 
-# 15 — Corrélations et projet flipper
+# 15 — Corrélations 
 
 ---
 
@@ -148,13 +148,3 @@ support_tickets = 200 - customer_satisfaction * 20 + bruit
 - Au moins 2 corrélations fortes sont identifiées.
 - L'interprétation précise bien: corrélation != causalité.
 - Une recommandation opérationnelle concrète est proposée.
-
----
-
-## Mini TP (2h) — Rendu fin de journée
-
-- Sujet: analyse de parties de flipper
-- Dataset: `data/flipper_games.csv`
-- Enonce: `tp/mini_tp_2h_equipes_flippers_robots.md`
-- Objectif: appliquer la meme trame operationnelle que le chapitre robots (sans correlation)
-- Bonus: un challenge final (classement des machines les plus a risque)

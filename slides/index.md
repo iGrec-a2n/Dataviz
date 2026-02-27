@@ -20,10 +20,10 @@ paginate: true
 
 ## TP
 
-- [Mini TP 2h30m — Equipes Robots / Flippers](https://github.com/Antoine07/Dataviz)
+- [Mini TP 2h30m — Par Equipes Robots / Flippers](https://github.com/Antoine07/Dataviz)
 
 ---
 
 ## Chapitre corrélation 
 
-- [Corrélations et projet flipper](https://antoine07.github.io/Dataviz/dataviz_correlations_flipper.html)
+- [Corrélations](https://antoine07.github.io/Dataviz/dataviz_correlations_flipper.html)

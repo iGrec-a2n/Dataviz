@@ -14,3 +14,4 @@ package*.json
 # Exceptions: TP starters
 !TPs/**/package.json
 !TPs/**/package-lock.json
+corrections/
