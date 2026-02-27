@@ -82,7 +82,7 @@ Chaque ligne représente :
 
 ---
 
-# Exploitation & KPI Potentiels
+# Exploitation & KPI Potentiels (KPI = Key Performance Indicator)
 
 - Missions par heure / zone
 - Durée moyenne par type de tâche
