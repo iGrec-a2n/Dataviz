@@ -11,6 +11,10 @@ package*.json
 !app-project/api/package.json
 !app-project/api/package-lock.json
 
+# Exceptions: hours dashboard
+!heures-dashboard/package.json
+!heures-dashboard/package-lock.json
+
 # Exceptions: TP starters
 !TPs/**/package.json
 !TPs/**/package-lock.json
