@@ -15,3 +15,13 @@ Il comprend les étapes suivantes : chargement des données, nettoyage, calcul d
 Le rendu complet du travail est disponible dans :
 
 tp/all_in_one/TP_EQUIPE_6
+
+## Dashboard heures de travail
+
+Application web de suivi des heures : `heures-dashboard/`
+
+```bash
+cd heures-dashboard && npm install && npm run dev
+```
+
+Voir `heures-dashboard/README.md` pour le détail.
